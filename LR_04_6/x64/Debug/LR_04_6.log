@@ -1,0 +1,6 @@
+﻿  LR_04_6.cpp
+D:\allCode\ap_all_code\LR_04_6\LR_04_6.cpp(21,28): warning C4244: '+=': conversion from 'double' to '__int64', possible loss of data
+D:\allCode\ap_all_code\LR_04_6\LR_04_6.cpp(35,28): warning C4244: '+=': conversion from 'double' to '__int64', possible loss of data
+D:\allCode\ap_all_code\LR_04_6\LR_04_6.cpp(48,28): warning C4244: '+=': conversion from 'double' to '__int64', possible loss of data
+D:\allCode\ap_all_code\LR_04_6\LR_04_6.cpp(60,28): warning C4244: '+=': conversion from 'double' to '__int64', possible loss of data
+  LR_04_6.vcxproj -> D:\allCode\ap_all_code\LR_04_6\x64\Debug\LR_04_6.exe
